@@ -1,0 +1,5 @@
+'Given the user\'s question: "dc의 갤러리 mabinogimobile 에서 최신 글을 가져오세요"\n            
+Available tools: [\'greet\', \'add\', \'get_gallery_posts\', \'get_gallery_info\'
+]\n            Please analyze which tool would be most appropriate and what parameters would be needed.\n            Respond in JSON format with:\n            {\n                "selected_tool": "tool_name",\n                "parameters": {\n                    "param1": "value1",\n                    "param2": "value2"\n
+    },\n                "explanation": "why this tool was selected"\n
+}'
